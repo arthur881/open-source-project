@@ -1,0 +1,1 @@
+import average from './src/average.js';
